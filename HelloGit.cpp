@@ -2,5 +2,5 @@
 
 void main(int argc, char *argv[])
 {
-  printf("hello git\n");
+  printf("hello git£¬hehe\n");
 }
